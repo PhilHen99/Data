@@ -1,0 +1,28 @@
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\bin\Debug\AlmacenamientoDeDatos.exe.config
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\bin\Debug\AlmacenamientoDeDatos.exe
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\bin\Debug\AlmacenamientoDeDatos.pdb
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.csproj.AssemblyReference.cache
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.ArchivoCSV.resources
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.ArchivoTXT.resources
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.ArchivoXML.resources
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.frmEntrada.resources
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.Properties.Resources.resources
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.csproj.GenerateResource.cache
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.exe
+C:\Users\monsa\Documents\Herramientas ll\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.pdb
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\bin\Debug\AlmacenamientoDeDatos.exe.config
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\bin\Debug\AlmacenamientoDeDatos.exe
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\bin\Debug\AlmacenamientoDeDatos.pdb
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.ArchivoCSV.resources
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.ArchivoTXT.resources
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.ArchivoXML.resources
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.frmEntrada.resources
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.Properties.Resources.resources
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.exe
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.pdb
+C:\Users\Usuario\Downloads\AlmacenamientoDeDatos\AlmacenamientoDeDatos\obj\Debug\AlmacenamientoDeDatos.ArchivoRTF.resources
